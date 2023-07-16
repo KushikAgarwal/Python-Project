@@ -1,0 +1,4 @@
+requests==2.27.1
+pandas==1.2.4
+BeautifulSoup==4.9.3
+datetime==5.1
